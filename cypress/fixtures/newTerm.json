@@ -1,0 +1,951 @@
+{
+    "exhaustive": {
+        "nbHits": false,
+        "typo": false
+    },
+    "exhaustiveNbHits": false,
+    "exhaustiveTypo": false,
+    "hits": [
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "OJFord"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "<em>Cypress</em>: Fast, easy, and reliable testing for anything that runs in a browser"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://www.<em>cypress</em>.io/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_OJFord",
+                "story_25381242"
+            ],
+            "author": "OJFord",
+            "children": [
+                25381271,
+                25381382,
+                25381398,
+                25381559,
+                25381593,
+                25381599,
+                25381613,
+                25381634,
+                25381646,
+                25381678,
+                25381679,
+                25381735,
+                25381805,
+                25381810,
+                25381842,
+                25381984,
+                25382005,
+                25382071,
+                25382120,
+                25382258,
+                25382286,
+                25382554,
+                25382568,
+                25382595,
+                25382762,
+                25383166,
+                25383173,
+                25383210,
+                25383410,
+                25383423,
+                25383493,
+                25383647,
+                25383715,
+                25383744,
+                25384914,
+                25384949,
+                25385362,
+                25385442,
+                25385575,
+                25385815,
+                25385997,
+                25386294,
+                25387408,
+                25387416,
+                25387965,
+                25388098,
+                25388142,
+                25388386,
+                25396178,
+                25397245,
+                25411413
+            ],
+            "created_at": "2020-12-11T01:35:56Z",
+            "created_at_i": 1607650556,
+            "num_comments": 178,
+            "objectID": "25381242",
+            "points": 316,
+            "story_id": 25381242,
+            "title": "Cypress: Fast, easy, and reliable testing for anything that runs in a browser",
+            "updated_at": "2024-09-30T20:19:12Z",
+            "url": "https://www.cypress.io/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "kiyanwang"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Testing React Apps in 2022 with <em>Cypress</em>: An In-Depth Guide for Beginners"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://profy.dev/article/<em>cypress</em>-react"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_kiyanwang",
+                "story_33047136"
+            ],
+            "author": "kiyanwang",
+            "children": [
+                33047394,
+                33047754,
+                33047998,
+                33049047,
+                33050469,
+                33050899,
+                33050985,
+                33051030,
+                33054579,
+                33054967
+            ],
+            "created_at": "2022-10-01T15:07:13Z",
+            "created_at_i": 1664636833,
+            "num_comments": 38,
+            "objectID": "33047136",
+            "points": 82,
+            "story_id": 33047136,
+            "title": "Testing React Apps in 2022 with Cypress: An In-Depth Guide for Beginners",
+            "updated_at": "2024-09-20T12:12:56Z",
+            "url": "https://profy.dev/article/cypress-react"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "madmax108"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "<em>Cypress</em>.io Blocking of Sorry <em>Cypress</em> and Currents"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://currents.dev/posts/v13-blocking"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_madmax108",
+                "story_37842778"
+            ],
+            "author": "madmax108",
+            "children": [
+                37844004,
+                37844036,
+                37844108,
+                37844126,
+                37844288,
+                37844424,
+                37844870,
+                37845005,
+                37845291,
+                37845498,
+                37845727,
+                37845743,
+                37846219,
+                37846650,
+                37846694,
+                37846779,
+                37856046,
+                37868171
+            ],
+            "created_at": "2023-10-11T10:24:41Z",
+            "created_at_i": 1697019881,
+            "num_comments": 54,
+            "objectID": "37842778",
+            "points": 78,
+            "story_id": 37842778,
+            "title": "Cypress.io Blocking of Sorry Cypress and Currents",
+            "updated_at": "2024-09-20T15:23:54Z",
+            "url": "https://currents.dev/posts/v13-blocking"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "monkey_monkey"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Ancient <em>cypress</em> in Chile may be the world\u2019s oldest tree, new study suggests"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://www.theguardian.com/environment/2022/may/26/worlds-oldest-tree-<em>cypress</em>-chile"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_monkey_monkey",
+                "story_31516252"
+            ],
+            "author": "monkey_monkey",
+            "created_at": "2022-05-26T09:13:28Z",
+            "created_at_i": 1653556408,
+            "num_comments": 0,
+            "objectID": "31516252",
+            "points": 23,
+            "story_id": 31516252,
+            "title": "Ancient cypress in Chile may be the world\u2019s oldest tree, new study suggests",
+            "updated_at": "2024-09-20T11:12:10Z",
+            "url": "https://www.theguardian.com/environment/2022/may/26/worlds-oldest-tree-cypress-chile"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "nirga"
+                },
+                "story_text": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "For the past few months we\u2019ve been building a simple jest/typescript-based high-level language for writing and running integration tests. We're open-sourcing it now and are excited to share it with you: <a href=\"https://github.com/traceloop/jest-opentelemetry\">https://github.com/traceloop/jest-opentelemetry</a><p>Why we built this:<p>- There are many solid frameworks for FE / browser testing, but none with high-level constructs for testing BE flows<p>- We were missing a way to validate side effects for complex backend systems, especially across async queueing systems<p>Our beta version lets you send an API call to a system and then:<p>- Validate (=assert) calls to any downstream microservice in REST and GRPC<p>- Validate queries/writes to DBs<p>Assertions are validated through the use of OpenTelemetry, as we see it as an easy-to-use way to observe how backend systems behave.<p>We\u2019re still early so would love your feedback and opinions.<p>It's all open-source with Apache 2.0 license.<p>GitHub: <a href=\"https://github.com/traceloop/jest-opentelemetry\">https://github.com/traceloop/jest-opentelemetry</a>"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Show HN: Open-source <em>cypress</em> for back end testing"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://github.com/traceloop/jest-opentelemetry"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_nirga",
+                "story_35232029",
+                "show_hn"
+            ],
+            "author": "nirga",
+            "children": [
+                35240302,
+                35240381,
+                35241029
+            ],
+            "created_at": "2023-03-20T14:31:44Z",
+            "created_at_i": 1679322704,
+            "num_comments": 6,
+            "objectID": "35232029",
+            "points": 22,
+            "story_id": 35232029,
+            "story_text": "For the past few months we\u2019ve been building a simple jest&#x2F;typescript-based high-level language for writing and running integration tests. We&#x27;re open-sourcing it now and are excited to share it with you: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;jest-opentelemetry\">https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;jest-opentelemetry</a><p>Why we built this:<p>- There are many solid frameworks for FE &#x2F; browser testing, but none with high-level constructs for testing BE flows<p>- We were missing a way to validate side effects for complex backend systems, especially across async queueing systems<p>Our beta version lets you send an API call to a system and then:<p>- Validate (=assert) calls to any downstream microservice in REST and GRPC<p>- Validate queries&#x2F;writes to DBs<p>Assertions are validated through the use of OpenTelemetry, as we see it as an easy-to-use way to observe how backend systems behave.<p>We\u2019re still early so would love your feedback and opinions.<p>It&#x27;s all open-source with Apache 2.0 license.<p>GitHub: <a href=\"https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;jest-opentelemetry\">https:&#x2F;&#x2F;github.com&#x2F;traceloop&#x2F;jest-opentelemetry</a>",
+            "title": "Show HN: Open-source cypress for back end testing",
+            "updated_at": "2024-09-20T13:36:30Z",
+            "url": "https://github.com/traceloop/jest-opentelemetry"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "qa-guy"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "<em>Cypress</em> vs. Selenium vs. Playwright vs. Puppeteer speed comparison"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://blog.checklyhq.com/<em>cypress</em>-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_qa-guy",
+                "story_30148095"
+            ],
+            "author": "qa-guy",
+            "created_at": "2022-01-31T14:16:54Z",
+            "created_at_i": 1643638614,
+            "num_comments": 0,
+            "objectID": "30148095",
+            "points": 21,
+            "story_id": 30148095,
+            "title": "Cypress vs. Selenium vs. Playwright vs. Puppeteer speed comparison",
+            "updated_at": "2024-09-20T10:24:53Z",
+            "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "jaraganittah"
+                },
+                "story_text": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "I'm Nagaraj, the founder of Tesmon. Having been both a developer and an engineering leader, from big tech companies to startups, I've personally encountered the challenges of integration testing. It's often so cumbersome that we resort to manual testing.<p>The world of testing is fragmented across multiple frameworks and platforms like Postman, RestAssured, pytest, Selenium, <em>Cypress</em>, Testim, and various custom in-house code using open source frameworks. Building and maintaining this testing infrastructure is not only time-consuming but can be a real pain.<p>Our mission is to revolutionize testing into an assertion-free, near zero effort process by leveraging AI/ML.<p>Current challenges?<p>- Environment Differences: Tests often fail across different environments\u2014local, staging, production\u2014due to setup discrepancies and versioning issues between environments.<p>- Complex Negative Testing: Difficult to manage sequences like receiving an HTTP 200 followed by a 407 error for the same resource.<p>- Frequent Updates: Tests require extensive updates with each application change, including writing assertions for all critical fields in large response bodies.<p>- Unreliable Self-Healing: Self-healing tests frequently fail to correct issues automatically, necessitating manual intervention.<p>- Scalability Issues: No-code/low-code UI tests struggle to scale, becoming a significant time drain as the test suite grows.<p>- Trade-offs Between Automation and Deadlines: Testing automation is often deprioritized due to urgent deadlines, leading to increased manual testing and the risk of regressions.<p>- Resource Limitations: Restricted access to essential databases and services due to compliance requirements, including the need to set up VPN access and manage Jenkins hosted in public clouds because of private subnet restrictions.<p>- Isolation Challenges: Testing everything from only the frontend or backend is often impractical, highlighting the need for integrated testing solutions.<p>- Effort in Framework Construction: Building a testing framework requires significant effort, especially when dealing with modularization and managing different testing environments.<p>How does testing code differ from product code?<p>Testing usually involves sending requests and checking responses, a process that doesn't need to run continuously like microservices or batch jobs. This makes it perfect for AI/ML automation, as the predictable nature of testing tasks allows for efficient learning and optimization without the complexity of continuous monitoring. Traditional programming adds unnecessary complexity to testing, which Tesmon simplifies.<p>Unit tests vs integration tests?<p>We cannot ship code without thorough integration testing, whether automated or manual. This step is critical for identifying significant issues that might not be caught by unit testing alone. Unit tests are primarily used for testing common code and libraries, ensuring that each individual component functions correctly in isolation.<p>Tesmon's Approach: We've completely rethought testing with the Tesmon Platform:<p>- Interactive Local Testing: Directly interact with your APIs, databases, caches, Kafka, and more through Tesmon Desktop, which autonomously creates tests.<p>- Single-Click Test Updates: Tesmon adapts to changes in your system and can integrate updates with just a click.<p>- Extended Lifecycle with Tesmon Cloud: From local development through staging to production, Tesmon covers it all.<p>- Unified Frontend and Backend Testing: Execute comprehensive testing across both frontend and backend within a single test.<p>- Zero Assertions: Utilize AI/ML models to ensure testing requires no manual assertions.<p>Get Started Now. Download Tesmon Desktop today on Mac/Windows and transform your testing.<p><a href=\"https://tesmon.io/desktop\" rel=\"nofollow\">https://tesmon.io/desktop</a>"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Show HN: Tesmon Platform == Postman + <em>Cypress</em> + RestAssured + Database + More"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://tesmon.io/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_jaraganittah",
+                "story_40497644",
+                "show_hn"
+            ],
+            "author": "jaraganittah",
+            "children": [
+                40497735,
+                40507803
+            ],
+            "created_at": "2024-05-28T05:36:14Z",
+            "created_at_i": 1716874574,
+            "num_comments": 2,
+            "objectID": "40497644",
+            "points": 14,
+            "story_id": 40497644,
+            "story_text": "I&#x27;m Nagaraj, the founder of Tesmon. Having been both a developer and an engineering leader, from big tech companies to startups, I&#x27;ve personally encountered the challenges of integration testing. It&#x27;s often so cumbersome that we resort to manual testing.<p>The world of testing is fragmented across multiple frameworks and platforms like Postman, RestAssured, pytest, Selenium, Cypress, Testim, and various custom in-house code using open source frameworks. Building and maintaining this testing infrastructure is not only time-consuming but can be a real pain.<p>Our mission is to revolutionize testing into an assertion-free, near zero effort process by leveraging AI&#x2F;ML.<p>Current challenges?<p>- Environment Differences: Tests often fail across different environments\u2014local, staging, production\u2014due to setup discrepancies and versioning issues between environments.<p>- Complex Negative Testing: Difficult to manage sequences like receiving an HTTP 200 followed by a 407 error for the same resource.<p>- Frequent Updates: Tests require extensive updates with each application change, including writing assertions for all critical fields in large response bodies.<p>- Unreliable Self-Healing: Self-healing tests frequently fail to correct issues automatically, necessitating manual intervention.<p>- Scalability Issues: No-code&#x2F;low-code UI tests struggle to scale, becoming a significant time drain as the test suite grows.<p>- Trade-offs Between Automation and Deadlines: Testing automation is often deprioritized due to urgent deadlines, leading to increased manual testing and the risk of regressions.<p>- Resource Limitations: Restricted access to essential databases and services due to compliance requirements, including the need to set up VPN access and manage Jenkins hosted in public clouds because of private subnet restrictions.<p>- Isolation Challenges: Testing everything from only the frontend or backend is often impractical, highlighting the need for integrated testing solutions.<p>- Effort in Framework Construction: Building a testing framework requires significant effort, especially when dealing with modularization and managing different testing environments.<p>How does testing code differ from product code?<p>Testing usually involves sending requests and checking responses, a process that doesn&#x27;t need to run continuously like microservices or batch jobs. This makes it perfect for AI&#x2F;ML automation, as the predictable nature of testing tasks allows for efficient learning and optimization without the complexity of continuous monitoring. Traditional programming adds unnecessary complexity to testing, which Tesmon simplifies.<p>Unit tests vs integration tests?<p>We cannot ship code without thorough integration testing, whether automated or manual. This step is critical for identifying significant issues that might not be caught by unit testing alone. Unit tests are primarily used for testing common code and libraries, ensuring that each individual component functions correctly in isolation.<p>Tesmon&#x27;s Approach: We&#x27;ve completely rethought testing with the Tesmon Platform:<p>- Interactive Local Testing: Directly interact with your APIs, databases, caches, Kafka, and more through Tesmon Desktop, which autonomously creates tests.<p>- Single-Click Test Updates: Tesmon adapts to changes in your system and can integrate updates with just a click.<p>- Extended Lifecycle with Tesmon Cloud: From local development through staging to production, Tesmon covers it all.<p>- Unified Frontend and Backend Testing: Execute comprehensive testing across both frontend and backend within a single test.<p>- Zero Assertions: Utilize AI&#x2F;ML models to ensure testing requires no manual assertions.<p>Get Started Now. Download Tesmon Desktop today on Mac&#x2F;Windows and transform your testing.<p><a href=\"https:&#x2F;&#x2F;tesmon.io&#x2F;desktop\" rel=\"nofollow\">https:&#x2F;&#x2F;tesmon.io&#x2F;desktop</a>",
+            "title": "Show HN: Tesmon Platform == Postman + Cypress + RestAssured + Database + More",
+            "updated_at": "2024-09-20T17:09:42Z",
+            "url": "https://tesmon.io/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "tnolet"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "<em>Cypress</em> vs. Selenium vs. Playwright vs. Puppeteer speed comparison"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://blog.checklyhq.com/<em>cypress</em>-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_tnolet",
+                "story_25927769"
+            ],
+            "author": "tnolet",
+            "children": [
+                25928411,
+                25928487
+            ],
+            "created_at": "2021-01-27T13:10:40Z",
+            "created_at_i": 1611753040,
+            "num_comments": 2,
+            "objectID": "25927769",
+            "points": 11,
+            "story_id": 25927769,
+            "title": "Cypress vs. Selenium vs. Playwright vs. Puppeteer speed comparison",
+            "updated_at": "2024-09-20T07:48:33Z",
+            "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "greenie_beans"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Underwater Ancient <em>Cypress</em> Forest Offers Clues to the Past"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.lsu.edu/mediacenter/news/2021/06/03ga_delong_ancientcypress.php"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_greenie_beans",
+                "story_27681347"
+            ],
+            "author": "greenie_beans",
+            "created_at": "2021-06-29T20:32:33Z",
+            "created_at_i": 1624998753,
+            "num_comments": 0,
+            "objectID": "27681347",
+            "points": 10,
+            "story_id": 27681347,
+            "title": "Underwater Ancient Cypress Forest Offers Clues to the Past",
+            "updated_at": "2024-09-20T08:56:59Z",
+            "url": "https://www.lsu.edu/mediacenter/news/2021/06/03ga_delong_ancientcypress.php"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "ragog"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Benchmark: <em>Cypress</em> vs. Selenium vs. Playwright vs. Puppeteer"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://blog.checklyhq.com/<em>cypress</em>-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_ragog",
+                "story_25988474"
+            ],
+            "author": "ragog",
+            "children": [
+                25988489,
+                25988513
+            ],
+            "created_at": "2021-02-01T13:29:55Z",
+            "created_at_i": 1612186195,
+            "num_comments": 2,
+            "objectID": "25988474",
+            "points": 9,
+            "story_id": 25988474,
+            "title": "Benchmark: Cypress vs. Selenium vs. Playwright vs. Puppeteer",
+            "updated_at": "2024-09-20T07:54:12Z",
+            "url": "https://blog.checklyhq.com/cypress-vs-selenium-vs-playwright-vs-puppeteer-speed-comparison/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "andrewortwein"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Chromatic 3: Visual testing integrations for Storybook, Playwright, and <em>Cypress</em>"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.chromatic.com/blog/chromatic-3/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_andrewortwein",
+                "story_39843557"
+            ],
+            "author": "andrewortwein",
+            "children": [
+                39843624
+            ],
+            "created_at": "2024-03-27T19:32:41Z",
+            "created_at_i": 1711567961,
+            "num_comments": 1,
+            "objectID": "39843557",
+            "points": 9,
+            "story_id": 39843557,
+            "title": "Chromatic 3: Visual testing integrations for Storybook, Playwright, and Cypress",
+            "updated_at": "2024-09-20T16:41:20Z",
+            "url": "https://www.chromatic.com/blog/chromatic-3/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "dhotson"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "<em>Cypress</em> is now public beta"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://www.<em>cypress</em>.io/blog/2017/10/10/<em>cypress</em>-is-now-public-beta/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_dhotson",
+                "story_15490577"
+            ],
+            "author": "dhotson",
+            "children": [
+                15491263
+            ],
+            "created_at": "2017-10-17T13:09:15Z",
+            "created_at_i": 1508245755,
+            "num_comments": 1,
+            "objectID": "15490577",
+            "points": 7,
+            "story_id": 15490577,
+            "title": "Cypress is now public beta",
+            "updated_at": "2024-09-20T01:33:50Z",
+            "url": "https://www.cypress.io/blog/2017/10/10/cypress-is-now-public-beta/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "jasonlaster11"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Debugging a flaky metabase.com <em>Cypress</em> test"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://blog.replay.io/debugging-a-flaky-test-with-replay"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_jasonlaster11",
+                "story_36987202"
+            ],
+            "author": "jasonlaster11",
+            "created_at": "2023-08-03T15:26:24Z",
+            "created_at_i": 1691076384,
+            "num_comments": 0,
+            "objectID": "36987202",
+            "points": 6,
+            "story_id": 36987202,
+            "title": "Debugging a flaky metabase.com Cypress test",
+            "updated_at": "2024-09-20T14:51:45Z",
+            "url": "https://blog.replay.io/debugging-a-flaky-test-with-replay"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "xvinci"
+                },
+                "story_text": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "<em>Cypress</em> E2E testing framework will apparently break compatibility with very popular open-source dashboard https://sorry-<em>cypress</em>.dev/ which is used to watch the execution of your E2E tests.<p>This is from an email we received:<p><pre><code>  We recently released changes to encrypt our private <em>Cypress</em> API requests for improving network security and stability of the overall <em>Cypress</em> testing experience. We are currently rolling this out across our user base and expect this to be complete effective June 30, 2023.\n  We have identified that this might impact the recording of tests for your projects using an on-premise instance of Sorry <em>Cypress</em>.\n  You will not be obligated to migrate off Sorry <em>Cypress</em>, however your action will be required to continue recording without disruption.\n</code></pre>\nIt's in everybody's right to earn money from what they are doing but:<p>- Please don't bs us so hard, holy moly<p>- As far as I can see <em>cypress</em> does not offer an on-premise hosted version, so this makes it a no-go for many of our (b2b) customers, and this is not even talking about GDPR etc.<p>I'd love to hear your suggestions for alternatives (as long as its not based on selenium, we had terrible experiences with that for the last 10 years)."
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "<em>Cypress</em> E2E test automation breaks open-source integration for \u201csecurity\u201d"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_xvinci",
+                "story_36162007",
+                "ask_hn"
+            ],
+            "author": "xvinci",
+            "created_at": "2023-06-02T07:05:38Z",
+            "created_at_i": 1685689538,
+            "num_comments": 0,
+            "objectID": "36162007",
+            "points": 6,
+            "story_id": 36162007,
+            "story_text": "Cypress E2E testing framework will apparently break compatibility with very popular open-source dashboard https:&#x2F;&#x2F;sorry-cypress.dev&#x2F; which is used to watch the execution of your E2E tests.<p>This is from an email we received:<p><pre><code>  We recently released changes to encrypt our private Cypress API requests for improving network security and stability of the overall Cypress testing experience. We are currently rolling this out across our user base and expect this to be complete effective June 30, 2023.\n  We have identified that this might impact the recording of tests for your projects using an on-premise instance of Sorry Cypress.\n  You will not be obligated to migrate off Sorry Cypress, however your action will be required to continue recording without disruption.\n</code></pre>\nIt&#x27;s in everybody&#x27;s right to earn money from what they are doing but:<p>- Please don&#x27;t bs us so hard, holy moly<p>- As far as I can see cypress does not offer an on-premise hosted version, so this makes it a no-go for many of our (b2b) customers, and this is not even talking about GDPR etc.<p>I&#x27;d love to hear your suggestions for alternatives (as long as its not based on selenium, we had terrible experiences with that for the last 10 years).",
+            "title": "Cypress E2E test automation breaks open-source integration for \u201csecurity\u201d",
+            "updated_at": "2024-09-20T14:16:15Z"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "zoomzoom"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Running Integration Tests (Like <em>Cypress</em>) in AWS with Coherence"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://www.withcoherence.com/post/running-integration-tests-like-<em>cypress</em>-in-aws-with-coherence"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_zoomzoom",
+                "story_33288237"
+            ],
+            "author": "zoomzoom",
+            "created_at": "2022-10-21T14:19:08Z",
+            "created_at_i": 1666361948,
+            "num_comments": 0,
+            "objectID": "33288237",
+            "points": 6,
+            "story_id": 33288237,
+            "title": "Running Integration Tests (Like Cypress) in AWS with Coherence",
+            "updated_at": "2024-09-20T12:20:23Z",
+            "url": "https://www.withcoherence.com/post/running-integration-tests-like-cypress-in-aws-with-coherence"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "agoldis"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Show HN: Sorry-<em>cypress</em> an open-source alternative to <em>Cypress</em> dashboard"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://sorry-<em>cypress</em>.dev/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_agoldis",
+                "story_24873511",
+                "show_hn"
+            ],
+            "author": "agoldis",
+            "created_at": "2020-10-23T20:13:07Z",
+            "created_at_i": 1603483987,
+            "num_comments": 0,
+            "objectID": "24873511",
+            "points": 6,
+            "story_id": 24873511,
+            "title": "Show HN: Sorry-cypress an open-source alternative to Cypress dashboard",
+            "updated_at": "2024-09-20T07:10:52Z",
+            "url": "https://sorry-cypress.dev/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "cageling"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Why <em>Cypress</em> Decided to Block Currents.dev and Sorry <em>Cypress</em>"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://www.<em>cypress</em>.io/blog/2023/11/07/update-defense-intellectual-property"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_cageling",
+                "story_38189940"
+            ],
+            "author": "cageling",
+            "children": [
+                38191039
+            ],
+            "created_at": "2023-11-08T13:20:58Z",
+            "created_at_i": 1699449658,
+            "num_comments": 3,
+            "objectID": "38189940",
+            "points": 5,
+            "story_id": 38189940,
+            "title": "Why Cypress Decided to Block Currents.dev and Sorry Cypress",
+            "updated_at": "2024-09-20T15:41:24Z",
+            "url": "https://www.cypress.io/blog/2023/11/07/update-defense-intellectual-property"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "dgib"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "<em>Cypress</em> v13 will now block third-party integrations"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://www.<em>cypress</em>.io/blog/2023/09/25/defense-intellectual-property/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_dgib",
+                "story_37679770"
+            ],
+            "author": "dgib",
+            "children": [
+                37679771
+            ],
+            "created_at": "2023-09-27T19:14:57Z",
+            "created_at_i": 1695842097,
+            "num_comments": 1,
+            "objectID": "37679770",
+            "points": 5,
+            "story_id": 37679770,
+            "title": "Cypress v13 will now block third-party integrations",
+            "updated_at": "2024-09-20T15:16:22Z",
+            "url": "https://www.cypress.io/blog/2023/09/25/defense-intellectual-property/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "DoreenMichele"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "New Orleans groups help grow trees for vanishing <em>cypress</em> swamps"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://yaleclimateconnections.org/2023/08/new-orleans-groups-help-grow-trees-for-vanishing-<em>cypress</em>-swamps/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_DoreenMichele",
+                "story_37303000"
+            ],
+            "author": "DoreenMichele",
+            "children": [
+                37325946
+            ],
+            "created_at": "2023-08-29T02:52:14Z",
+            "created_at_i": 1693277534,
+            "num_comments": 1,
+            "objectID": "37303000",
+            "points": 5,
+            "story_id": 37303000,
+            "title": "New Orleans groups help grow trees for vanishing cypress swamps",
+            "updated_at": "2024-09-20T14:56:17Z",
+            "url": "https://yaleclimateconnections.org/2023/08/new-orleans-groups-help-grow-trees-for-vanishing-cypress-swamps/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "mesadb"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "Show HN: <em>Cypress</em> Recorder that adapts to UI changes with Email testing"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "cypress"
+                    ],
+                    "value": "https://<em>cypress</em>.preflight.com/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_mesadb",
+                "story_30980017",
+                "show_hn"
+            ],
+            "author": "mesadb",
+            "children": [
+                30980104
+            ],
+            "created_at": "2022-04-10T18:21:40Z",
+            "created_at_i": 1649614900,
+            "num_comments": 1,
+            "objectID": "30980017",
+            "points": 5,
+            "story_id": 30980017,
+            "title": "Show HN: Cypress Recorder that adapts to UI changes with Email testing",
+            "updated_at": "2024-09-20T10:55:54Z",
+            "url": "https://cypress.preflight.com/"
+        }
+    ],
+    "hitsPerPage": 20,
+    "nbHits": 76185,
+    "nbPages": 50,
+    "page": 0,
+    "params": "query=Cypress&page=0&advancedSyntax=true&analyticsTags=backend",
+    "processingTimeMS": 12,
+    "processingTimingsMS": {
+        "_request": {
+            "roundTrip": 14
+        },
+        "fetch": {
+            "query": 8,
+            "scanning": 1,
+            "total": 10
+        },
+        "total": 12
+    },
+    "query": "Cypress",
+    "serverTimeMS": 13
+}

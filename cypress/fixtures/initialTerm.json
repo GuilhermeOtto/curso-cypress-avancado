@@ -1,0 +1,1793 @@
+{
+    "exhaustive": {
+        "nbHits": false,
+        "typo": false
+    },
+    "exhaustiveNbHits": false,
+    "exhaustiveTypo": false,
+    "hits": [
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "dwwoelfel"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Relicensing <em>React</em>, Jest, Flow, and Immutable.js"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://code.facebook.com/posts/300798627056246"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_dwwoelfel",
+                "story_15316175"
+            ],
+            "author": "dwwoelfel",
+            "children": [
+                15316191,
+                15316198,
+                15316213,
+                15316216,
+                15316219,
+                15316227,
+                15316228,
+                15316229,
+                15316239,
+                15316240,
+                15316243,
+                15316244,
+                15316249,
+                15316261,
+                15316262,
+                15316267,
+                15316282,
+                15316301,
+                15316318,
+                15316321,
+                15316338,
+                15316370,
+                15316374,
+                15316380,
+                15316401,
+                15316411,
+                15316418,
+                15316426,
+                15316429,
+                15316435,
+                15316453,
+                15316458,
+                15316519,
+                15316521,
+                15316525,
+                15316545,
+                15316559,
+                15316580,
+                15316586,
+                15316610,
+                15316636,
+                15316659,
+                15316688,
+                15316713,
+                15316720,
+                15316733,
+                15316773,
+                15316819,
+                15316846,
+                15316919,
+                15316982,
+                15317003,
+                15317072,
+                15317128,
+                15317173,
+                15317237,
+                15317413,
+                15317469,
+                15317499,
+                15317523,
+                15317606,
+                15317638,
+                15317700,
+                15317899,
+                15317913,
+                15317932,
+                15318161,
+                15318179,
+                15318192,
+                15318342,
+                15318496,
+                15318536,
+                15318546,
+                15318645,
+                15318715,
+                15318900,
+                15318984,
+                15319225,
+                15319292,
+                15319925,
+                15320856,
+                15321189,
+                15321556,
+                15321988,
+                15323222,
+                15323383,
+                15328623
+            ],
+            "created_at": "2017-09-22T21:51:56Z",
+            "created_at_i": 1506117116,
+            "num_comments": 498,
+            "objectID": "15316175",
+            "points": 2280,
+            "story_id": 15316175,
+            "title": "Relicensing React, Jest, Flow, and Immutable.js",
+            "updated_at": "2024-09-20T01:22:28Z",
+            "url": "https://code.facebook.com/posts/300798627056246"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "pomber"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Build Your Own <em>React</em>"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://pomb.us/build-your-own-<em>react</em>/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_pomber",
+                "story_21536789"
+            ],
+            "author": "pomber",
+            "children": [
+                21537045,
+                21537077,
+                21537147,
+                21537215,
+                21537382,
+                21537592,
+                21537641,
+                21537801,
+                21537832,
+                21537875,
+                21537887,
+                21537891,
+                21537939,
+                21538002,
+                21538253,
+                21538291,
+                21538300,
+                21538328,
+                21538494,
+                21539267,
+                21539390,
+                21540901,
+                21541095,
+                21541223,
+                21541707,
+                21542732,
+                21544560,
+                21544995,
+                21561389
+            ],
+            "created_at": "2019-11-14T16:35:38Z",
+            "created_at_i": 1573749338,
+            "num_comments": 108,
+            "objectID": "21536789",
+            "points": 1478,
+            "story_id": 21536789,
+            "title": "Build Your Own React",
+            "updated_at": "2024-09-20T05:08:44Z",
+            "url": "https://pomb.us/build-your-own-react/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "peterhunt"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "<em>React</em> Native is now open source"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://github.com/facebook/<em>react</em>-native"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_peterhunt",
+                "story_9271246"
+            ],
+            "author": "peterhunt",
+            "children": [
+                9271270,
+                9271297,
+                9271331,
+                9271336,
+                9271337,
+                9271342,
+                9271390,
+                9271392,
+                9271402,
+                9271445,
+                9271526,
+                9271550,
+                9271608,
+                9271611,
+                9271643,
+                9271654,
+                9271691,
+                9271810,
+                9271905,
+                9271950,
+                9271951,
+                9271989,
+                9272045,
+                9272269,
+                9272447,
+                9272457,
+                9272530,
+                9272600,
+                9272688,
+                9273148,
+                9273305,
+                9273447,
+                9273539,
+                9274413,
+                9274567,
+                9274745,
+                9274746,
+                9274836,
+                9274942,
+                9275060,
+                9275848,
+                9276823,
+                9276868,
+                9277070
+            ],
+            "created_at": "2015-03-26T17:08:54Z",
+            "created_at_i": 1427389734,
+            "num_comments": 287,
+            "objectID": "9271246",
+            "points": 1039,
+            "story_id": 9271246,
+            "title": "React Native is now open source",
+            "updated_at": "2023-09-07T02:23:29Z",
+            "url": "https://github.com/facebook/react-native"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "ano-ther"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "First new U.S. nuclear <em>react</em>or since 2016 is now in operation"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://www.eia.gov/todayinenergy/detail.php?id=61106"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_ano-ther",
+                "story_38785468"
+            ],
+            "author": "ano-ther",
+            "children": [
+                38785509,
+                38786288,
+                38786448,
+                38786459,
+                38786526,
+                38786560,
+                38786564,
+                38786680,
+                38786764,
+                38786793,
+                38786852,
+                38786875,
+                38786931,
+                38786954,
+                38786969,
+                38787147,
+                38787423,
+                38787840,
+                38787883,
+                38788491,
+                38789157,
+                38789906,
+                38790872,
+                38791293,
+                38792245,
+                38795892,
+                38798202,
+                38799718,
+                38800370,
+                38800531,
+                38802599,
+                38803023,
+                38805520,
+                38809993
+            ],
+            "created_at": "2023-12-27T19:19:37Z",
+            "created_at_i": 1703704777,
+            "num_comments": 1123,
+            "objectID": "38785468",
+            "points": 1012,
+            "story_id": 38785468,
+            "title": "First new U.S. nuclear reactor since 2016 is now in operation",
+            "updated_at": "2024-10-15T03:59:32Z",
+            "url": "https://www.eia.gov/todayinenergy/detail.php?id=61106"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "y4m4b4"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Explaining <em>React</em>'s license"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://code.facebook.com/posts/112130496157735/explaining-<em>react</em>-s-license/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_y4m4b4",
+                "story_15050841"
+            ],
+            "author": "y4m4b4",
+            "children": [
+                15050768,
+                15050842,
+                15050903,
+                15050943,
+                15050987,
+                15050996,
+                15051014,
+                15051025,
+                15051027,
+                15051043,
+                15051077,
+                15051111,
+                15051124,
+                15051145,
+                15051146,
+                15051157,
+                15051159,
+                15051161,
+                15051175,
+                15051197,
+                15051208,
+                15051226,
+                15051231,
+                15051234,
+                15051260,
+                15051305,
+                15051316,
+                15051351,
+                15051467,
+                15051471,
+                15051593,
+                15051604,
+                15051673,
+                15051724,
+                15051743,
+                15051779,
+                15051783,
+                15051804,
+                15051839,
+                15051840,
+                15051869,
+                15051972,
+                15051975,
+                15051990,
+                15052062,
+                15052064,
+                15052149,
+                15052179,
+                15052196,
+                15052294,
+                15052421,
+                15052525,
+                15052528,
+                15052536,
+                15052666,
+                15052681,
+                15052692,
+                15052767,
+                15052887,
+                15052939,
+                15052945,
+                15052971,
+                15053107,
+                15053519,
+                15053571,
+                15053590,
+                15053591,
+                15053606,
+                15053748,
+                15053781,
+                15053812,
+                15053890,
+                15054162,
+                15054196,
+                15054200,
+                15054620,
+                15054742,
+                15054900,
+                15054948,
+                15055268,
+                15055760,
+                15056290,
+                15057401,
+                15057538,
+                15057562,
+                15058920,
+                15082453,
+                15088930
+            ],
+            "created_at": "2017-08-19T00:35:34Z",
+            "created_at_i": 1503102934,
+            "num_comments": 595,
+            "objectID": "15050841",
+            "points": 978,
+            "story_id": 15050841,
+            "title": "Explaining React's license",
+            "updated_at": "2024-09-20T01:14:41Z",
+            "url": "https://code.facebook.com/posts/112130496157735/explaining-react-s-license/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "markthethomas"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "<em>React</em> 16"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://facebook.github.io/<em>react</em>/blog/2017/09/26/<em>react</em>-v16.0.html"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_markthethomas",
+                "story_15339983"
+            ],
+            "author": "markthethomas",
+            "children": [
+                15340148,
+                15340174,
+                15340206,
+                15340210,
+                15340215,
+                15340216,
+                15340260,
+                15340318,
+                15340338,
+                15340367,
+                15340427,
+                15340476,
+                15340501,
+                15340582,
+                15340605,
+                15340607,
+                15340706,
+                15340758,
+                15340839,
+                15340876,
+                15341181,
+                15341410,
+                15341417,
+                15341425,
+                15341459,
+                15341715,
+                15341957,
+                15341969,
+                15342119,
+                15342177,
+                15342636,
+                15342725,
+                15343188,
+                15371454
+            ],
+            "created_at": "2017-09-26T16:13:31Z",
+            "created_at_i": 1506442411,
+            "num_comments": 338,
+            "objectID": "15339983",
+            "points": 914,
+            "story_id": 15339983,
+            "title": "React 16",
+            "updated_at": "2024-09-20T01:24:48Z",
+            "url": "https://facebook.github.io/react/blog/2017/09/26/react-v16.0.html"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "Kajdav"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "<em>React</em> Native for Android"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://code.facebook.com/posts/1189117404435352/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_Kajdav",
+                "story_10216234"
+            ],
+            "author": "Kajdav",
+            "children": [
+                10216307,
+                10216312,
+                10216328,
+                10216364,
+                10216365,
+                10216366,
+                10216377,
+                10216387,
+                10216393,
+                10216415,
+                10216447,
+                10216459,
+                10216465,
+                10216515,
+                10216544,
+                10216546,
+                10216572,
+                10216592,
+                10216627,
+                10216683,
+                10216707,
+                10216749,
+                10216766,
+                10216777,
+                10216806,
+                10216852,
+                10216869,
+                10216882,
+                10216898,
+                10217029,
+                10217157,
+                10217165,
+                10217191,
+                10217420,
+                10218104,
+                10218550,
+                10218745,
+                10219016,
+                10219368,
+                10219511,
+                10219820
+            ],
+            "created_at": "2015-09-14T17:30:44Z",
+            "created_at_i": 1442251844,
+            "num_comments": 240,
+            "objectID": "10216234",
+            "points": 907,
+            "story_id": 10216234,
+            "title": "React Native for Android",
+            "updated_at": "2024-10-26T11:42:01Z",
+            "url": "https://code.facebook.com/posts/1189117404435352/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "apetresc"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Facebook Announces <em>React</em> Fiber, a Rewrite of Its <em>React</em> Framework"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://techcrunch.com/2017/04/18/facebook-announces-<em>react</em>-fiber-a-rewrite-of-its-<em>react</em>-framework/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_apetresc",
+                "story_14142120"
+            ],
+            "author": "apetresc",
+            "children": [
+                14142242,
+                14142289,
+                14142294,
+                14142295,
+                14142316,
+                14142336,
+                14142401,
+                14142435,
+                14142452,
+                14142706,
+                14142710,
+                14142775,
+                14142947,
+                14142975,
+                14143162,
+                14143164,
+                14143326,
+                14143355,
+                14143566,
+                14143591,
+                14143599,
+                14143610,
+                14143662,
+                14143765,
+                14143926,
+                14143996,
+                14144271,
+                14144622,
+                14144773,
+                14144921,
+                14145284,
+                14145307,
+                14145311,
+                14145573,
+                14146079,
+                14146319,
+                14148787,
+                14192926
+            ],
+            "created_at": "2017-04-18T19:33:44Z",
+            "created_at_i": 1492544024,
+            "num_comments": 406,
+            "objectID": "14142120",
+            "points": 851,
+            "story_id": 14142120,
+            "title": "Facebook Announces React Fiber, a Rewrite of Its React Framework",
+            "updated_at": "2024-09-20T00:41:37Z",
+            "url": "https://techcrunch.com/2017/04/18/facebook-announces-react-fiber-a-rewrite-of-its-react-framework/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "papa-whisky"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "US regulators will certify first small nuclear <em>react</em>or design"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-<em>react</em>or-design/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_papa-whisky",
+                "story_32282632"
+            ],
+            "author": "papa-whisky",
+            "children": [
+                32286096,
+                32286350,
+                32286379,
+                32287293,
+                32288411,
+                32288565,
+                32288726,
+                32288763,
+                32288940,
+                32289061,
+                32289289,
+                32289452,
+                32289473,
+                32289559,
+                32290878,
+                32291155,
+                32291396,
+                32291552,
+                32291560,
+                32291625,
+                32291661,
+                32292436,
+                32293316,
+                32293440,
+                32293565,
+                32294226,
+                32294682,
+                32296814
+            ],
+            "created_at": "2022-07-29T22:56:00Z",
+            "created_at_i": 1659135360,
+            "num_comments": 742,
+            "objectID": "32282632",
+            "points": 829,
+            "story_id": 32282632,
+            "title": "US regulators will certify first small nuclear reactor design",
+            "updated_at": "2024-09-20T11:44:00Z",
+            "url": "https://arstechnica.com/science/2022/07/us-regulators-will-certify-first-small-nuclear-reactor-design/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "pouwerkerk"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Painting with Code: Introducing our new open source library <em>React</em> Sketch.app"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "http://airbnb.design/painting-with-code/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_pouwerkerk",
+                "story_14196077"
+            ],
+            "author": "pouwerkerk",
+            "children": [
+                14196279,
+                14196565,
+                14196596,
+                14196604,
+                14197049,
+                14197115,
+                14197400,
+                14197440,
+                14197686,
+                14198243,
+                14198475,
+                14198545,
+                14199434,
+                14199837,
+                14199894,
+                14200452,
+                14200922,
+                14201734,
+                14203105
+            ],
+            "created_at": "2017-04-25T17:40:08Z",
+            "created_at_i": 1493142008,
+            "num_comments": 95,
+            "objectID": "14196077",
+            "points": 787,
+            "story_id": 14196077,
+            "title": "Painting with Code: Introducing our new open source library React Sketch.app",
+            "updated_at": "2024-09-20T00:46:51Z",
+            "url": "http://airbnb.design/painting-with-code/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "julosflb"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Macron says France will build new nuclear energy <em>react</em>ors"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://www.reuters.com/business/energy/macron-says-france-will-build-more-nuclear-energy-<em>react</em>ors-2021-11-09/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_julosflb",
+                "story_29167000"
+            ],
+            "author": "julosflb",
+            "children": [
+                29167064,
+                29167113,
+                29167114,
+                29167118,
+                29167148,
+                29167427,
+                29167787,
+                29167900,
+                29167909,
+                29167928,
+                29167978,
+                29167988,
+                29168071,
+                29168079,
+                29168123,
+                29168132,
+                29168138,
+                29168198,
+                29168467,
+                29168844,
+                29168914,
+                29168973,
+                29169046,
+                29169084,
+                29169270,
+                29169304,
+                29169515,
+                29169715,
+                29169773,
+                29170452,
+                29170748,
+                29171024,
+                29171547,
+                29171866,
+                29171897,
+                29171983,
+                29172286,
+                29172320,
+                29172869,
+                29173709,
+                29173850,
+                29174003,
+                29175710
+            ],
+            "created_at": "2021-11-09T20:26:22Z",
+            "created_at_i": 1636489582,
+            "num_comments": 637,
+            "objectID": "29167000",
+            "points": 784,
+            "story_id": 29167000,
+            "title": "Macron says France will build new nuclear energy reactors",
+            "updated_at": "2025-01-23T10:08:10Z",
+            "url": "https://www.reuters.com/business/energy/macron-says-france-will-build-more-nuclear-energy-reactors-2021-11-09/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "vjeux"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Create <em>React</em> Apps with No Configuration"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://facebook.github.io/<em>react</em>/blog/2016/07/22/create-apps-with-no-configuration.html"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_vjeux",
+                "story_12144371"
+            ],
+            "author": "vjeux",
+            "children": [
+                12144507,
+                12144527,
+                12144530,
+                12144534,
+                12144540,
+                12144553,
+                12144596,
+                12144630,
+                12144654,
+                12144669,
+                12144708,
+                12144739,
+                12144750,
+                12144759,
+                12144795,
+                12144848,
+                12144880,
+                12144885,
+                12144893,
+                12144909,
+                12145023,
+                12145030,
+                12145127,
+                12145200,
+                12145212,
+                12145227,
+                12145265,
+                12145323,
+                12145334,
+                12145467,
+                12145648,
+                12145755,
+                12145865,
+                12145897,
+                12146114,
+                12146175,
+                12146569,
+                12146619,
+                12146633,
+                12146701,
+                12146724,
+                12146896,
+                12147061,
+                12147113,
+                12147274,
+                12147378,
+                12147554,
+                12147724,
+                12147826,
+                12148161,
+                12148548,
+                12148673,
+                12149002,
+                12149367,
+                12149955,
+                12152510,
+                12152518,
+                12157472
+            ],
+            "created_at": "2016-07-22T16:02:29Z",
+            "created_at_i": 1469203349,
+            "num_comments": 241,
+            "objectID": "12144371",
+            "points": 777,
+            "story_id": 12144371,
+            "title": "Create React Apps with No Configuration",
+            "updated_at": "2024-09-19T23:29:08Z",
+            "url": "https://facebook.github.io/react/blog/2016/07/22/create-apps-with-no-configuration.html"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "chris_overseas"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Radical hydrogen-boron <em>react</em>or leapfrogs current nuclear fusion tech?"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://newatlas.com/energy/hb11-hydrogen-boron-fusion-clean-energy/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_chris_overseas",
+                "story_22382618"
+            ],
+            "author": "chris_overseas",
+            "children": [
+                22382846,
+                22382883,
+                22382887,
+                22382893,
+                22382915,
+                22382934,
+                22383003,
+                22383045,
+                22383066,
+                22383110,
+                22383155,
+                22383178,
+                22383195,
+                22383285,
+                22383295,
+                22383471,
+                22383537,
+                22383568,
+                22383572,
+                22383631,
+                22383663,
+                22383696,
+                22383729,
+                22383903,
+                22383918,
+                22384075,
+                22384157,
+                22384224,
+                22384243,
+                22384249,
+                22384589,
+                22384752,
+                22384760,
+                22384842,
+                22384912,
+                22385775,
+                22385885,
+                22386012,
+                22386026,
+                22386706,
+                22387125,
+                22387822,
+                22387969,
+                22389198,
+                22390642
+            ],
+            "created_at": "2020-02-21T12:34:47Z",
+            "created_at_i": 1582288487,
+            "num_comments": 276,
+            "objectID": "22382618",
+            "points": 760,
+            "story_id": 22382618,
+            "title": "Radical hydrogen-boron reactor leapfrogs current nuclear fusion tech?",
+            "updated_at": "2024-09-20T05:44:57Z",
+            "url": "https://newatlas.com/energy/hb11-hydrogen-boron-fusion-clean-energy/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "rheeseyb"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Utopia, a visual design tool for <em>React</em>, with code as the source of truth"
+                },
+                "url": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "https://utopia.app/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_rheeseyb",
+                "story_27516212"
+            ],
+            "author": "rheeseyb",
+            "children": [
+                27521965,
+                27521985,
+                27521998,
+                27522022,
+                27522060,
+                27522104,
+                27522106,
+                27522126,
+                27522202,
+                27522286,
+                27522380,
+                27522459,
+                27522471,
+                27522475,
+                27522499,
+                27522583,
+                27522594,
+                27522619,
+                27522754,
+                27522798,
+                27522868,
+                27522873,
+                27522990,
+                27523048,
+                27523184,
+                27523287,
+                27523312,
+                27523361,
+                27523381,
+                27523459,
+                27523625,
+                27524050,
+                27524071,
+                27524205,
+                27524264,
+                27524284,
+                27524674,
+                27525002,
+                27525024,
+                27525081,
+                27525309,
+                27525320,
+                27525604,
+                27525700,
+                27525704,
+                27525882,
+                27526021,
+                27526162,
+                27526177,
+                27526345,
+                27526433,
+                27526434,
+                27526477,
+                27526726,
+                27526870,
+                27527554,
+                27528816,
+                27529721,
+                27536419,
+                27558921,
+                27558961
+            ],
+            "created_at": "2021-06-15T14:42:57Z",
+            "created_at_i": 1623768177,
+            "num_comments": 171,
+            "objectID": "27516212",
+            "points": 750,
+            "story_id": 27516212,
+            "title": "Utopia, a visual design tool for React, with code as the source of truth",
+            "updated_at": "2024-09-20T08:44:41Z",
+            "url": "https://utopia.app/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "clessg"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Introducing <em>react</em>.dev"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://<em>react</em>.dev/blog/2023/03/16/introducing-<em>react</em>-dev"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_clessg",
+                "story_35186812"
+            ],
+            "author": "clessg",
+            "children": [
+                35187002,
+                35187178,
+                35187257,
+                35187264,
+                35187269,
+                35187284,
+                35187309,
+                35187343,
+                35187537,
+                35187651,
+                35187701,
+                35187722,
+                35187731,
+                35187764,
+                35187858,
+                35187959,
+                35188277,
+                35188409,
+                35188446,
+                35188537,
+                35188545,
+                35188708,
+                35188742,
+                35188963,
+                35189130,
+                35189200,
+                35189219,
+                35189576,
+                35189601,
+                35189613,
+                35189631,
+                35189886,
+                35189936,
+                35190058,
+                35190291,
+                35190409,
+                35190615,
+                35190668,
+                35190796,
+                35192591,
+                35192832,
+                35193173,
+                35194165,
+                35195062,
+                35195129,
+                35195206,
+                35196331
+            ],
+            "created_at": "2023-03-16T19:11:08Z",
+            "created_at_i": 1678993868,
+            "num_comments": 468,
+            "objectID": "35186812",
+            "points": 748,
+            "story_id": 35186812,
+            "title": "Introducing react.dev",
+            "updated_at": "2024-09-20T13:40:18Z",
+            "url": "https://react.dev/blog/2023/03/16/introducing-react-dev"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "WillAbides"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Add <em>React</em>ions to Pull Requests, Issues, and Comments"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://github.com/blog/2119-add-<em>react</em>ions-to-pull-requests-issues-and-comments"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_WillAbides",
+                "story_11262736"
+            ],
+            "author": "WillAbides",
+            "children": [
+                11262798,
+                11262813,
+                11262815,
+                11262819,
+                11262832,
+                11262887,
+                11262891,
+                11262895,
+                11262900,
+                11262922,
+                11262927,
+                11262941,
+                11262943,
+                11262960,
+                11262973,
+                11262974,
+                11262993,
+                11262995,
+                11263035,
+                11263048,
+                11263066,
+                11263123,
+                11263192,
+                11263196,
+                11263225,
+                11263239,
+                11263256,
+                11263282,
+                11263291,
+                11263346,
+                11263369,
+                11263372,
+                11263550,
+                11263591,
+                11263759,
+                11263765,
+                11264098,
+                11264144,
+                11264190,
+                11264354,
+                11264396,
+                11264436,
+                11264474,
+                11264517,
+                11264835,
+                11264843,
+                11264919,
+                11264961,
+                11265126,
+                11265154,
+                11265180,
+                11265269,
+                11265283,
+                11265550,
+                11265606,
+                11265791,
+                11265877,
+                11266886,
+                11267658
+            ],
+            "created_at": "2016-03-10T21:55:36Z",
+            "created_at_i": 1457646936,
+            "num_comments": 227,
+            "objectID": "11262736",
+            "points": 736,
+            "story_id": 11262736,
+            "title": "Add Reactions to Pull Requests, Issues, and Comments",
+            "updated_at": "2024-10-20T13:57:54Z",
+            "url": "https://github.com/blog/2119-add-reactions-to-pull-requests-issues-and-comments"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "fanf2"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Vue.js vs. <em>React</em>"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://vuejs.org/v2/guide/comparison.html#<em>React</em>"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_fanf2",
+                "story_15052691"
+            ],
+            "author": "fanf2",
+            "children": [
+                15053161,
+                15053177,
+                15053182,
+                15053239,
+                15053246,
+                15053250,
+                15053276,
+                15053285,
+                15053306,
+                15053351,
+                15053412,
+                15053443,
+                15053471,
+                15053491,
+                15053511,
+                15053532,
+                15053534,
+                15053548,
+                15053592,
+                15053593,
+                15053629,
+                15053665,
+                15053669,
+                15053675,
+                15053676,
+                15053714,
+                15053792,
+                15053825,
+                15053919,
+                15053966,
+                15053987,
+                15054009,
+                15054043,
+                15054058,
+                15054081,
+                15054091,
+                15054244,
+                15054275,
+                15054318,
+                15054455,
+                15054637,
+                15054765,
+                15054816,
+                15054889,
+                15054983,
+                15054999,
+                15055318,
+                15055512,
+                15055606,
+                15055708,
+                15055711,
+                15056144,
+                15056440,
+                15056541,
+                15056723,
+                15057066,
+                15057550,
+                15058926,
+                15059395
+            ],
+            "created_at": "2017-08-19T10:43:04Z",
+            "created_at_i": 1503139384,
+            "num_comments": 471,
+            "objectID": "15052691",
+            "points": 732,
+            "story_id": 15052691,
+            "title": "Vue.js vs. React",
+            "updated_at": "2024-12-05T16:53:51Z",
+            "url": "https://vuejs.org/v2/guide/comparison.html#React"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "ed"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "<em>React</em> Native for Windows and Mac"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://microsoft.github.io/<em>react</em>-native-windows/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_ed",
+                "story_23160075"
+            ],
+            "author": "ed",
+            "children": [
+                23160083,
+                23160242,
+                23160384,
+                23160453,
+                23160550,
+                23160588,
+                23160591,
+                23160614,
+                23160623,
+                23160634,
+                23160636,
+                23160671,
+                23160725,
+                23160859,
+                23160860,
+                23160948,
+                23160985,
+                23161047,
+                23161198,
+                23161222,
+                23161324,
+                23161345,
+                23162208,
+                23162415,
+                23162459,
+                23162544,
+                23163272,
+                23163280,
+                23163435,
+                23164135,
+                23164311,
+                23164405,
+                23164504,
+                23164616,
+                23164985,
+                23165072,
+                23165097,
+                23165292,
+                23165402,
+                23166283,
+                23175688
+            ],
+            "created_at": "2020-05-12T21:24:57Z",
+            "created_at_i": 1589318697,
+            "num_comments": 477,
+            "objectID": "23160075",
+            "points": 715,
+            "story_id": 23160075,
+            "title": "React Native for Windows and Mac",
+            "updated_at": "2024-09-20T06:13:40Z",
+            "url": "https://microsoft.github.io/react-native-windows/"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "yreg"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Korean nuclear fusion <em>react</em>or achieves 100M\u00b0C for 30 seconds"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://www.shiningscience.com/2022/09/korean-nuclear-fusion-<em>react</em>or-achieves.html"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_yreg",
+                "story_32755893"
+            ],
+            "author": "yreg",
+            "children": [
+                32756867,
+                32756934,
+                32756953,
+                32756971,
+                32756987,
+                32757019,
+                32757068,
+                32757076,
+                32757088,
+                32757287,
+                32757321,
+                32757523,
+                32757613,
+                32757615,
+                32758071,
+                32758111,
+                32758297,
+                32758368,
+                32758429,
+                32758566,
+                32758697,
+                32758761,
+                32758869,
+                32759059,
+                32759272,
+                32759342,
+                32759346,
+                32759458,
+                32759698,
+                32760082,
+                32760146,
+                32760418,
+                32761007,
+                32761062,
+                32761408,
+                32761557,
+                32761872,
+                32762103,
+                32762654,
+                32763070,
+                32763530,
+                32764896,
+                32772483,
+                32772499,
+                32776162
+            ],
+            "created_at": "2022-09-07T19:58:27Z",
+            "created_at_i": 1662580707,
+            "num_comments": 769,
+            "objectID": "32755893",
+            "points": 705,
+            "story_id": 32755893,
+            "title": "Korean nuclear fusion reactor achieves 100M\u00b0C for 30 seconds",
+            "updated_at": "2024-12-22T04:38:54Z",
+            "url": "https://www.shiningscience.com/2022/09/korean-nuclear-fusion-reactor-achieves.html"
+        },
+        {
+            "_highlightResult": {
+                "author": {
+                    "matchLevel": "none",
+                    "matchedWords": [],
+                    "value": "natcombs"
+                },
+                "title": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "Small nuclear <em>react</em>ors: tiny NuScale <em>react</em>or gets safety approval"
+                },
+                "url": {
+                    "fullyHighlighted": false,
+                    "matchLevel": "full",
+                    "matchedWords": [
+                        "react"
+                    ],
+                    "value": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-<em>react</em>or-government-approval/"
+                }
+            },
+            "_tags": [
+                "story",
+                "author_natcombs",
+                "story_24358850"
+            ],
+            "author": "natcombs",
+            "children": [
+                24359145,
+                24365202,
+                24365432,
+                24367089,
+                24367297,
+                24367309,
+                24367336,
+                24367344,
+                24367390,
+                24367406,
+                24367646,
+                24367709,
+                24367785,
+                24367987,
+                24368267,
+                24368415,
+                24368507,
+                24368536,
+                24368868,
+                24369014,
+                24369214,
+                24369227,
+                24369571,
+                24369782,
+                24370010,
+                24370028,
+                24370335,
+                24371236,
+                24371304,
+                24371455,
+                24371874,
+                24372004,
+                24372007,
+                24372561,
+                24372813,
+                24373573,
+                24373983,
+                24374835,
+                24375061,
+                24375366,
+                24377570,
+                24377645
+            ],
+            "created_at": "2020-09-02T22:18:05Z",
+            "created_at_i": 1599085085,
+            "num_comments": 541,
+            "objectID": "24358850",
+            "points": 703,
+            "story_id": 24358850,
+            "title": "Small nuclear reactors: tiny NuScale reactor gets safety approval",
+            "updated_at": "2025-02-05T19:17:26Z",
+            "url": "https://www.popularmechanics.com/science/a33896110/tiny-nuclear-reactor-government-approval/"
+        }
+    ],
+    "hitsPerPage": 20,
+    "nbHits": 344007,
+    "nbPages": 50,
+    "page": 0,
+    "params": "query=React&page=0&advancedSyntax=true&analyticsTags=backend",
+    "processingTimeMS": 6,
+    "processingTimingsMS": {
+        "_request": {
+            "roundTrip": 19
+        },
+        "fetch": {
+            "query": 2,
+            "scanning": 2,
+            "total": 5
+        },
+        "total": 6
+    },
+    "query": "React",
+    "serverTimeMS": 6
+}
