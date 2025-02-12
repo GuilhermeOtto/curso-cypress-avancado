@@ -573,7 +573,7 @@
                 "author": {
                     "matchLevel": "none",
                     "matchedWords": [],
-                    "value": "Kajdav"
+                    "value": "Aajdav"
                 },
                 "title": {
                     "fullyHighlighted": false,
@@ -591,10 +591,10 @@
             },
             "_tags": [
                 "story",
-                "author_Kajdav",
+                "author_Aajdav",
                 "story_10216234"
             ],
-            "author": "Kajdav",
+            "author": "Aajdav",
             "children": [
                 10216307,
                 10216312,
@@ -1319,7 +1319,7 @@
                 "author": {
                     "matchLevel": "none",
                     "matchedWords": [],
-                    "value": "WillAbides"
+                    "value": "AAillAbides"
                 },
                 "title": {
                     "fullyHighlighted": false,
@@ -1340,10 +1340,10 @@
             },
             "_tags": [
                 "story",
-                "author_WillAbides",
+                "author_AAillAbides",
                 "story_11262736"
             ],
-            "author": "WillAbides",
+            "author": "AAillAbides",
             "children": [
                 11262798,
                 11262813,
